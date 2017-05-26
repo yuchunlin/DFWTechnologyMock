@@ -2,16 +2,17 @@
 
 [Stylish Portfolio](http://startbootstrap.com/template-overviews/stylish-portfolio/) is a responsive, one page portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). The theme features multiple content sections with an off canvas navigation menu.
 
-## Getting Started
+## Project Overview
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/stylish-portfolio/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio.git`
-* Fork the repo
+This project is a mockup of a modernized website template for DFW Technology. It is heavily based on Start Bootstrap/Stylish Portfolio, the creator of which you can find in the creator section. All edits to the original template were made by myself. This project is a work in progress, mostly as a learning tool as I study HTML/CSS/JS/Bootstrap.
 
-## Bugs and Issues
+To view the original Bootstrap template, please visit:
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/stylish-portfolio/).
+* https://startbootstrap.com/template-overviews/stylish-portfolio/
+
+To learn more about DFW Technology, please visit:
+
+* http://www.dfwtechnology.com
 
 ## Creator
 
